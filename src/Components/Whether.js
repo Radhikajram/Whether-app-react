@@ -8,5 +8,5 @@ const Whether = props => (
    {props.desc && <p> Description: {props.desc} </p>}
    {props.error && <p> {props.error}</p>}
 </div>
-)
+) 
 export default Whether;

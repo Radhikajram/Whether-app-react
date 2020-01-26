@@ -7,5 +7,5 @@ const Titles = () => (
 
 </div>
 )
-
+ 
 export default Titles;
